@@ -7,7 +7,7 @@
 
 ---
 
-I’m a student at the University of Essex studying Computer Science (BSc) and currently working at [Kintsugi Hope](https://kintsugihope.com/) as their developer and IT Coordinator. I'm passionate about developing tools and services
+I’m a student at the University of Essex studying Computer Science (BSc) and currently working at [Kintsugi Hope](https://kintsugihope.com/) as their developer and IT Coordinator.
 
 If you want to get to know me more, check out my [blog](https://alexnewson.co.uk/blog/) where I ramble about everything and anything that interests me.
 
